@@ -26,4 +26,4 @@ Let's connect → [LinkedIn](https://www.linkedin.com/in/amirihoare/)
 ---
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![Amiri's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirios11&theme=radical&hide_icons=true)
+![Amiri's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirihoare&theme=radical&hide_icons=true)
