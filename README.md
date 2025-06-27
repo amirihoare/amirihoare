@@ -14,13 +14,13 @@ Web developer focused on building clean, responsive websites using HTML, CSS & J
 
 
 ## 🌱 Current Focus  
-- JavaScript fundamentals  
-- Portfolio website  
+- JavaScript & Python fundamentals  
+- Client website project  
 - Running a growth-focused community on Discord
 
 
 ## ✨ Fun Fact  
-I represented my country as part of the national team on the international stage. 🏓🏆
+I played table tennis internationally representing my home country. 🏓🏆
 
 
 Let's connect → [LinkedIn](https://www.linkedin.com/in/amirihoare/)
