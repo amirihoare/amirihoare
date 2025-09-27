@@ -13,7 +13,7 @@ Full-stack developer focused on building clean, responsive websites using HTML, 
 
 
 ## 🌱 Current Focus  
-- JavaScript & React fundamentals  
+- React fundamentals  
 - Client website projects
 - Running a growth-focused community on Discord
 
