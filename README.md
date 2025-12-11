@@ -1,6 +1,6 @@
 ## Hi, I'm Amiri! 👋
 
-Full-stack developer focused on building clean, responsive websites using HTML, CSS & JavaScript. Always learning, always leveling up.
+Front-End developer focused on building clean, responsive websites using HTML, CSS, JavaScript, and REACT. Always learning, always leveling up.
 
 
 ## 🛠️ Tech Stack  
